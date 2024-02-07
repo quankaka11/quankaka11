@@ -1,16 +1,23 @@
-### Hi there 👋 Im gay va them an cut
+### Hi there 👋 
 
-<!--
-**quankaka11/quankaka11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm [QuanKaka], a software developer with 1 year of experience. I have a strong proficiency in Python (4 stars), and I'm also skilled in C++ and Java (3 stars each). 
 
-Here are some ideas to get you started:
+🌱 I'm continuously learning and exploring new technologies to enhance my skills and knowledge.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Currently, I'm working on various projects to further develop my expertise in software development.
+
+💼 My skills include:
+- **Programming Languages**: Python (★★★★), C++ (★★★), Java (★★★)
+- **Web Development**: HTML, CSS, JavaScript
+- **Tools & Technologies**: Git, Docker, Linux
+- **Data Analysis**: Pandas, NumPy, Matplotlib
+- **Database Management**: SQL, SQLite
+- **Other Skills**: Microsoft Word, Excel (proficient), PowerPoint, LaTeX
+
+📫 You can reach me via:
+- Email: ah929586@gmail.com
+
+😄 Feel free to reach out to me for collaboration or any inquiries related to my projects and expertise!
+
+⚡ Fun fact: I love solving algorithmic puzzles and playing chess in my free time!
+
