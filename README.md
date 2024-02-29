@@ -1,13 +1,13 @@
 ### Hi there 👋 
 
-I'm [QuanKaka], a software developer with 1 year of experience. I have a strong proficiency in Python (4 stars), and I'm also skilled in C++ and Java (3 stars each). 
+I'm [QuanKaka], a software developer with 1 year of experience. I have a strong proficiency in Python , and I'm also skilled in C++ and Java . 
 
 🌱 I'm continuously learning and exploring new technologies to enhance my skills and knowledge.
 
 🔭 Currently, I'm working on various projects to further develop my expertise in software development.
 
 💼 My skills include:
-- **Programming Languages**: Python (★★★★), C++ (★★★), Java (★★★)
+- **Programming Languages**: Python , C++ , Java 
 - **Web Development**: HTML, CSS, JavaScript
 - **Tools & Technologies**: Git, Docker, Linux
 - **Data Analysis**: Pandas, NumPy, Matplotlib
