@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-I'm [QuanKaka], a software developer with 1 year of experience. I have a strong proficiency in Python , and I'm also skilled in C++ and Java . 
+I'm [QuanKaka], a software developer with many years of experience. I have a strong proficiency in Python , and I'm also skilled in C++ and Java . 
 
 🌱 I'm continuously learning and exploring new technologies to enhance my skills and knowledge.
 
