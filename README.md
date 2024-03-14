@@ -1,6 +1,5 @@
-### Hi there 👋 
-
-I'm [QuanKaka], a software developer with many years of experience. I have a strong proficiency in Python , and I'm also skilled in C++ and Java . 
+### WELCOME TO MY PAGE 👋👋👋
+My name is Quan Nguyen. I am an Dev in Computer Science, majoring in Artificial Intelligence and Robotics. I am interested in the following topics: Deep Learning in NLP and Computer Vision. Reinforcement Learning.<br>
 
 🌱 I'm continuously learning and exploring new technologies to enhance my skills and knowledge.
 
@@ -17,7 +16,27 @@ I'm [QuanKaka], a software developer with many years of experience. I have a str
 📫 You can reach me via:
 - Email: ah929586@gmail.com
 
-😄 Feel free to reach out to me for collaboration or any inquiries related to my projects and expertise!
+## 📫 How to reach me: 
 
-⚡ Fun fact: I love solving algorithmic puzzles and playing chess in my free time!
+![Quan github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=quankaka11&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
+
+<a href="https://github.com/quankaka11/PaintAll/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=quankaka11&repo=PaintAll&theme=radical" />
+</a> 
+
+<a href="https://github.com/quankaka11/BaiTapCuoiKi/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=quankaka11&repo=BaiTapCuoiKi&theme=merko" />
+</a>
+
+<a href="https://github.com/quankaka11/HappyNewYear/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=quankaka11&repo=HappyNewYear&theme=gruvbox" />
+</a>    
+<a href="https://github.com/quankaka11/AppProfile/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=quankaka11&repo=AppProfile&theme=dark" />
+</a>
+
 
