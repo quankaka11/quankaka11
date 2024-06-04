@@ -46,6 +46,6 @@ My name is Quan Nguyen. I am an Dev in Computer Science, majoring in Artificial 
 
 <a href="https://github.com/quankaka11/Student-Management/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=quankaka11&repo=AppProflie&theme=dark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=quankaka11&repo=Student-Management&theme=dark" />
 </a>
 
